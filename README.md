@@ -1,4 +1,7 @@
 # Directus Unsplash
+
+***** This was for Directus v8 and is not compatible with v9 *****
+
 Unsplash embed provider for Directus Docker image
 
 # Disclaimer
